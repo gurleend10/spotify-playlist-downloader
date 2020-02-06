@@ -1,0 +1,8 @@
+https://github.com/artyshko/smd.git
+pip3 install -r requirements.txt
+pip3 install PyQtWebEngine
+sudo apt-get install python3-pyqt5.qtwebengine
+python3 main.py
+./main.py -ss "https://open.spotify.com/track/2QoDAlMnML5haTXvYRS86X?si=eMGX4dlwQd-7dyiG6OmUHQ"
+./main.py -sa "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv?si=lDnHRa2BR_uFUOnUOZPbUQ"
+./main.py -sp "https://open.spotify.com/playlist/37i9dQZF1DXcRXFNfZr7Tp?si=Yd3IJQ9ATWOdFulNa7ax5g"
